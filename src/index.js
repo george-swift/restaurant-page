@@ -1,8 +1,8 @@
-import home from './home.js';
-import menu from './menu.js';
-import contact from './contact.js';
-import about from './about.js';
-import reset from './reset.js';
+import home from './modules/home.js';
+import menu from './modules/menu.js';
+import contact from './modules/contact.js';
+import about from './modules/about.js';
+import reset from './modules/reset.js';
 import './reset.css';
 import './style.css';
 

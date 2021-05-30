@@ -26,11 +26,11 @@ a {
 }
 
 .for-home {
-  background-image: url('./emerson-vieira-pqDbQ21C59A-unsplash.jpg');
+  background-image: url('./assets/emerson-vieira-pqDbQ21C59A-unsplash.jpg');
 }
 
 .for-about {
-  background-image: url('./emerson-vieira-lanootd2FcU-unsplash.jpg');
+  background-image: url('./assets/emerson-vieira-lanootd2FcU-unsplash.jpg');
 }
 
 .navbar {
@@ -106,11 +106,11 @@ p {
 }
 
 .menu {
-  background-image: url('./carlos-davila-cepeda-lpkDVZF_cbw-unsplash.jpg');
+  background-image: url('./assets/carlos-davila-cepeda-lpkDVZF_cbw-unsplash.jpg');
 }
 
 .contact {
-  background-image: url('./valentin-b-kremer-S8BhJ0HB-WQ-unsplash.jpg');
+  background-image: url('./assets/valentin-b-kremer-S8BhJ0HB-WQ-unsplash.jpg');
 }
 
 .about {
